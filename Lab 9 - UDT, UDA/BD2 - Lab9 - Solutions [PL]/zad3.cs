@@ -31,5 +31,3 @@ public struct avg{
     private int count;
 
 }
-
-// Niestety nie zdążyłem przygotować reszty agregatów z zadania 3 :(
